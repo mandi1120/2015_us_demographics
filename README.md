@@ -32,7 +32,7 @@ In this project, I developed a Tableau dashboard to analyze 2015 US Census Demog
 - Design:
   -  I chose to use a bar chart to display this data because it allowed me to compare the unemployment rates by region. I sorted the chart by the rates in ascending order so that the reader can clearly tell which regions were lowest vs highest. I used the blue color scheme to stay consistent with the overall theme of the report.
 - Resources: N/A
-<img src='images/unemp-rate.png' width='400'>  
+<img src='images/unemp-rate.png' width='300'>  
 
 ### Visual 3
 - Description:
@@ -49,7 +49,7 @@ In this project, I developed a Tableau dashboard to analyze 2015 US Census Demog
 
   
 ### Dashboard:  
-<img src='images/dashboard'>  
+<img src='images/dashboard.png'>  
 
 
   
