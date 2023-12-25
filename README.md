@@ -1,9 +1,9 @@
-# Udacity Data Analyst Nanodegree <br>Data Visualization Project: US Census Demographic Data
+# Udacity Data Analyst Nanodegree - Data Visualization <br>Project: US Census Demographic Data
 ### By: Amanda Hanway, 12/25/2023  
   
 ## Overview  
 
-In this project, I developed a Tableau dashboard to analyze 2015 US Census Demographic data. The data was provided in csv format and required no preprocessing steps before loading it into Tableau. This project was focused on creating visuals to convey insights from the data.  
+In this project, I developed a Tableau dashboard to analyze 2015 US Census Demographic Data. The data was provided in csv format and required no preprocessing steps before loading it into Tableau. This project was focused on creating visuals to convey insights from the data.  
 
 - Data source: [acs2015_county_data.csv](https://www.kaggle.com/datasets/muonneutrino/us-census-demographic-data?resource=download&select=acs2015_county_data.csv)  
 - View the Dashboard: [Tableau Public](https://public.tableau.com/app/profile/amanda.hanway/viz/2015USDemographics/Dashboard)  
@@ -36,8 +36,7 @@ In this project, I developed a Tableau dashboard to analyze 2015 US Census Demog
 
 ### Visual 3
 - Description:
-  - This visual is a 100% stacked bar chart displaying the proportion of industry makeup by region.
-  - Using this visual, the reader can understand which industries are more or less prevelant in each region.
+  - This visual is a 100% stacked column chart displaying the proportion of industry makeup by region. Using this visual, the reader can understand which industries are more or less prevelant in each region.
 - Story:
   - The West region has the largest proportion of the Service and Construction industries in the US.  
   - The North East region is made up of a greater percentage of Professional industry work than the other regions.
