@@ -7,6 +7,9 @@ In this project, I developed a Tableau dashboard to analyze 2015 US Census Demog
 
 - Data source: [acs2015_county_data.csv](https://www.kaggle.com/datasets/muonneutrino/us-census-demographic-data?resource=download&select=acs2015_county_data.csv)  
 - View the Dashboard: [Tableau Public](https://public.tableau.com/app/profile/amanda.hanway/viz/2015USDemographics/Dashboard)  
+
+Note:   
+- The analysis below is reflective of all US states including Alaska and Hawaii, but excluding Puerto Rico. I chose to exclude Puerto Rico because it is not considered part of the four regions of the US by the US Census.  
   
 ## Written Summary
 
@@ -46,6 +49,17 @@ In this project, I developed a Tableau dashboard to analyze 2015 US Census Demog
 - Resources: N/A
 <img src='images/industry.png' width='600'>  
 
+### Visual 3
+- Description:
+  - This visual is a card displaying summary statistics for the total US. 
+- Story:
+  - The US population was 316.52M in the 2015 census.
+  - 222.46M of the US population were citizens.
+  - There were more women than men.
+- Design:
+  -  I chose to use a card to display this data because it is a space-effective way to show important and useful information. I used the red/white/blue color scheme to stay consistent with the overall theme of the report. I included an additional tooltip in this visual showing the total count of states. 
+- Resources: N/A
+<img src='images/us-card-tooltip.png' width='400'> 
   
 ### Dashboard:  
 <img src='images/dashboard.png'>  
