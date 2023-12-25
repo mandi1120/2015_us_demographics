@@ -17,7 +17,7 @@ Note:
 - Description:
   - This visual is a treemap chart displaying the percent of population by region broken out by race/ethnicity. It will allow the reader to gain insight into the race/ethnicity makeup for each region in the US.
 - Story:
-  - The White race/ethnicity is the most prevelant among all regions in the US.
+  - The White race/ethnicity is the most prevalent among all regions in the US.
   - The Midwest has the greatest proportion of White individuals while the South has the least when compared to the other regions.
   - The West has the largest percent of Hispanic individuals out of the entire US.  
 - Design:
@@ -39,7 +39,7 @@ Note:
 
 ### Visual 3
 - Description:
-  - This visual is a 100% stacked column chart displaying the proportion of industry makeup by region. Using this visual, the reader can understand which industries are more or less prevelant in each region.
+  - This visual is a 100% stacked column chart displaying the proportion of industry makeup by region. Using this visual, the reader can understand which industries are more or less prevalent in each region.
 - Story:
   - The West region has the largest proportion of the Service and Construction industries in the US.  
   - The North East region is made up of a greater percentage of Professional industry work than the other regions.
