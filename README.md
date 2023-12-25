@@ -49,7 +49,7 @@ Note:
 - Resources: N/A
 <img src='images/industry.png' width='600'>  
 
-### Visual 3
+### Visual 4
 - Description:
   - This visual is a card displaying summary statistics for the total US. 
 - Story:
