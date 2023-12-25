@@ -20,7 +20,7 @@ In this project, I developed a Tableau dashboard to analyze 2015 US Census Demog
 - Design:
   -  I chose to use a treemap chart to display this data because it allowed me to show proportions of race/ethnicity makeup for each region. I used the blue color scheme for this report to align the visuals with the subject of US Demographics. 
 - Resources: N/A
-<img src='images/race-ethnicity.png' width='500'>  
+<img src='images/race-ethnicity.png' width='600'>  
 
 ### Visual 2
 - Description:
@@ -32,7 +32,7 @@ In this project, I developed a Tableau dashboard to analyze 2015 US Census Demog
 - Design:
   -  I chose to use a bar chart to display this data because it allowed me to compare the unemployment rates by region. I sorted the chart by the rates in ascending order so that the reader can clearly tell which regions were lowest vs highest. I used the blue color scheme to stay consistent with the overall theme of the report.
 - Resources: N/A
-<img src='images/unemp-rate.png' width='500'>  
+<img src='images/unemp-rate.png' width='400'>  
 
 ### Visual 3
 - Description:
@@ -45,21 +45,11 @@ In this project, I developed a Tableau dashboard to analyze 2015 US Census Demog
 - Design:
   -  I chose to use a 100% stacked bar chart to display this data because it allowed me to show proportions of the industry makeup by type, for all regions individually. I used the blue color scheme to stay consistent with the overall theme of the report.
 - Resources: N/A
-<img src='images/industry.png' width='500'>  
+<img src='images/industry.png' width='600'>  
 
-
--------------
-The written summary should include a brief description of the visualization and state at least one finding.
-
-A reader’s summary of the graphic would closely match the written summary in the writeup, and a reader is able to identify at least one main point or relationship that the graphic attempts to convey.
-
-To reiterate your report should include at least 3 sets of
-
-Link(s) to your dashboards or story
-Summary: brief description of the visualization and the main story or findings conveyed (please include an insight you are able to make from the visualization)
-Design: explain any design choices you made including changes to the visualization after collecting feedback
-Resources: list of Web sites, books, forums, blog posts, GitHub repositories etc that you referred to or used in this submission (Add N/A if you did not use such resources).
-
+  
+### Dashboard:  
+<img src='images/dashboard'>  
 
 
   
