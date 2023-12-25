@@ -15,7 +15,7 @@ In this project, I developed a Tableau dashboard to analyze 2015 US Census Demog
   - This visual is a treemap chart displaying the percent of population by region broken out by race/ethnicity. It will allow the reader to gain insight into the race/ethnicity makeup for each region in the US.
 - Story:
   - The White race/ethnicity is the most prevelant among all regions in the US.
-  - The Midwest has the greatest proportion of White individuals while the South has the least compared to the other regions.
+  - The Midwest has the greatest proportion of White individuals while the South has the least when compared to the other regions.
   - The West has the largest percent of Hispanic individuals out of the entire US.  
 - Design:
   -  I chose to use a treemap chart to display this data because it allowed me to show proportions of race/ethnicity makeup for each region. I used the blue color scheme for this report to align the visuals with the subject of US Demographics. 
